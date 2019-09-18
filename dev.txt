@@ -1,2 +1,4 @@
 this is dev text.
 function add.
+
+function2 add.
